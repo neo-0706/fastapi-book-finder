@@ -1,0 +1,21 @@
+# Python bytecode (فایل‌های موقتی پایتون)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (محیط مجازی - این رو اصلاً نباید آپلود کنید!)
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables (فایل‌های حساس حاوی پسورد و توکن)
+.env
+
+# IDE settings (تنظیمات شخصی ادیتور شما)
+.vscode/
+.idea/
+
+# OS metadata (فایل‌های سیستمی)
+.DS_Store
+Thumbs.db
